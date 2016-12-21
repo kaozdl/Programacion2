@@ -1,0 +1,7 @@
+1>(0,primero)(1,tigre)(2,bufalo)(3,conejo)
+2>(1,tigre)(2,bufalo)(3,conejo)
+(3,conejo)(2,bufalo)(1,tigre)
+(3,conejo)(2,bufalo)(3,tigre)
+3>(0,primero)(1,tigre)(3,conejo)(2,bufalo)
+(0,primero)(1,tigre)(2,bufalo)(3,conejo)
+4>5>6>Fin.

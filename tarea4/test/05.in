@@ -1,0 +1,10 @@
+# cola_binarios
+encolar
+desencolar 1
+insertar_binario (3,x) (1,y) (5,z) (2,m) (8,c) (-2,b) (12,a) (9,q) .
+encolar
+desencolar 1
+desencolar 5
+desencolar 1
+desencolar 3
+Fin

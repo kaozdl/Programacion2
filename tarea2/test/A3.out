@@ -1,0 +1,6 @@
+1>(0,primero)(20,conejo)(10,mono)(30,mono)(15,caballo)
+2>(0,primero)(20,conejo)(30,mono)(10,mono)(15,caballo)
+(0,primero)(10,mono)(20,conejo)(30,mono)(15,caballo)
+3>(0,primero)(10,mono)(15,caballo)(30,mono)(20,conejo)
+(0,primero)(10,mono)(15,caballo)(30,mono)(20,conejo)
+4>Fin.

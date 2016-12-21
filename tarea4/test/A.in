@@ -1,0 +1,7 @@
+linealizacion
+insertar_binario (30,a) (2,b) (31,c) (10,d) (40,e) (-1,z) (-10,x) .
+por_niveles
+linealizacion
+balanceado (1,a) (2,aa) (3,aaaa) (1,abcd) (5,gg) (1,gh) (7,gty) (1,hll) (4,i) (2,j) (3,k) (1,l) (5,m) (1,n) (7,o) (2,p) .
+insertar_binario .
+Fin

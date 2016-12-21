@@ -1,0 +1,6 @@
+encolar
+desencolar 1
+insertar_binario (15,rr) (12,z) (11,a) (10,b) .
+desencolar 15
+desencolar 1
+Fin

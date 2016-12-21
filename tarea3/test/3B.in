@@ -1,0 +1,48 @@
+# caso 3B
+finitario (55,CA2016) 55 .
+finitario (65,GrupoA) 1 .
+finitario (66,GrupoB) 2 .
+finitario (67,GrupoC) 3 .
+finitario (68,GrupoD) 4 .
+finitario (1,USA) 1 1 .
+finitario (2,COL) 2 1 .
+finitario (3,CRC) 3 1 .
+finitario (4,PAR) 4 1 .
+finitario (1,BRA) 1 2 .
+finitario (2,ECU) 2 2 .
+finitario (3,HAI) 3 2 .
+finitario (4,PER) 4 2 .
+finitario (1,MEX) 1 3 .
+finitario (2,URU) 2 3 .
+finitario (3,JAM) 3 3 .
+finitario (4,VEN) 4 3 .
+finitario (1,ARG) 1 4 .
+finitario (2,CHI) 2 4 .
+finitario (3,PAN) 3 4 .
+finitario (4,BOL) 4 4 .
+liberar_estructuras
+insertar_binario (1,Champ_URU) .
+insertar_binario (2,URU_F) (3,COL_F) .
+insertar_binario (4,PER_SF) (5,URU_SF) (6,ARG_SF) (7,COL_SF) .
+remover_binario PER_SF .
+insertar_binario (4,ECU_SF) (5,URU_SF) .
+filtrar_binario 3 > .
+filtrar_binario 4 < .
+filtrar_binario 1 = .
+kesimo_subarbol 1 .
+kesimo_subarbol 3 .
+kesimo_subarbol 2 .
+kesimo_subarbol 4 .
+kesimo_subarbol 6 .
+kesimo_subarbol 7 .
+kesimo_subarbol 5 .
+buscar_camino (16,Champ_URU) (1,URU_F) (1,URU_SF) .
+buscar_camino (16,Champ_URU) (1,COL_F) (1,ARG_SF) .
+buscar_camino (15,Champ_ARG) .
+buscar_subarbol Champ_URU .
+buscar_subarbol URU_SF .
+buscar_subarbol COL_SF .
+buscar_subarbol COL_F .
+buscar_subarbol ARG_F .
+buscar_subarbol Champ_CHI .
+Fin

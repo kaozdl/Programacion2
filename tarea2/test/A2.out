@@ -1,0 +1,6 @@
+1>(0,primero)(10,mercurio)(20,tierra)(30,pluton)
+2>(10,mercurio)(20,tierra)(30,pluton)
+(0,primero)(10,mercurio)(20,tierra)(30,pluton)
+3>(20,tierra)(30,pluton)
+(0,primero)(10,mercurio)(20,tierra)(30,pluton)
+4>5>Fin.

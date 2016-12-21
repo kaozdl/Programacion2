@@ -1,0 +1,24 @@
+10 > 5 * 2|foo # bar|otra linea|mas o menos|mitad|fin? |despues llega|sdfsd gsdg|ahora casi termina|es el ultimo
+Longitud  Texto 
+      10  10 > 5 * 2
+       9  foo # bar
+      10  otra linea
+      11  mas o menos
+       5  mitad
+       5  fin? 
+      13  despues llega
+      10  sdfsd gsdg
+      18  ahora casi termina
+      12  es el ultimo
+mitad > 10 > 5 * 2
+mitad > foo # bar
+mitad < otra linea
+mitad > mas o menos
+mitad = mitad
+mitad > fin? 
+mitad > despues llega
+mitad < sdfsd gsdg
+mitad > ahora casi termina
+mitad > es el ultimo
+La conversión es 11.
+El inicio numérico de la palabra leida era 11.

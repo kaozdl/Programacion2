@@ -1,0 +1,5 @@
+insertar_lista (10,mercurio) (20,tierra) (30,pluton) . 
+segmentos 10 30
+segmentos 20 30
+segmentos 30 20
+Fin

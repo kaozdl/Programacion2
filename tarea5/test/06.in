@@ -1,0 +1,24 @@
+# Caso 06
+ingresar_localidades (50,ulsan) .
+iniciar_pedidos 10
+reiniciar_sistema
+ingresar_localidades (50,ulsan) .
+iniciar_pedidos 10
+ingresar_pedidos ulsan (1000,chapas) 4 .
+imprimir_totales
+procesar_rango 1
+procesar_rango 3
+imprimir_totales
+procesar_rango 3
+ingresar_pedidos ulsan (1000,chapas) 4 .
+imprimir_totales
+ingresar_pedidos ulsan (1000,chapas) 4 .
+imprimir_totales
+ingresar_pedidos ulsan (1000,chapas) 1 .
+imprimir_totales
+ingresar_pedidos ulsan (1000,chapas) 9 ulsan (5000,ropa) 1 ulsan (2000,alimentos) 1 .
+imprimir_totales
+procesar_rango 1
+procesar_rango 3
+reiniciar_sistema
+Fin

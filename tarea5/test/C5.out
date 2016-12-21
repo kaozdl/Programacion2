@@ -1,0 +1,14 @@
+1>2>3>
+ IDENTIFICADORES DE LOCALIDADES 
+(1,goya)(2,ulsan)
+4>5>6>7>INFORME POR RANGOS
+5000
+0
+0
+0
+4000
+8>goya
+(1000,chapas)(2000,comestibles)(1000,medicamentos)
+9>ulsan
+(2000,medicamentos)(2000,comestibles)(1000,chapas)
+10>Fin.

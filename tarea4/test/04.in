@@ -1,0 +1,15 @@
+# pila
+apilar .
+desapilar 1
+apilar uno .
+desapilar 1
+apilar uno .
+apilar dos tres cuatro cuatro .
+desapilar 2
+desapilar 1
+apilar tres cuatro cinco seis siete ocho nueve diez .
+apilar 11 12 13 14 15 16 17 18 19 MAX_PILA 21 22 .
+desapilar 1
+desapilar 19
+desapilar 1
+Fin

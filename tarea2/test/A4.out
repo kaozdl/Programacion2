@@ -1,0 +1,7 @@
+1>(0,primero)(100,dragon)(50,perro)(30,gallo)
+2>4
+(0,primero)(100,dragon)(50,perro)(30,gallo)
+(0,primero)(30,gallo)(50,perro)(100,dragon)
+(0,primero)(30,gallo)(50,perro)(100,dragon)
+3>(0,primero)(100,dragon)(50,perro)(30,gallo)(30,gallo)(50,perro)(100,dragon)(0,primero)
+4>5>Fin.

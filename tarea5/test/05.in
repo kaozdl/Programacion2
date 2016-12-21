@@ -1,0 +1,11 @@
+# Caso 05
+procesar_rango 2
+reiniciar_sistema
+ingresar_localidades (50,tambo) .
+procesar_rango 2
+ingresar_localidades (34,ulsan) (4,goya) (23,esmeraldas) (65,cumana) .
+procesar_rango 2
+procesar_rango 1
+procesar_rango 5
+procesar_rango 2
+Fin

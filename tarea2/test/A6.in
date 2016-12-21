@@ -1,0 +1,6 @@
+insertar_lista (1,tigre) (2,bufalo) (3,conejo) .
+reversa_lista 1 3
+modificar_lista 2 3
+reversa_lista 3 2 
+liberar_lista
+Fin

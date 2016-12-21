@@ -1,0 +1,5 @@
+construir_cnj (30,abcd) (2,bacd) (3,ccc) (1,d) (5,e) (1,f) (7,g) (1,h) (4,i) (2,j) (3,k) (1,l) (5,m) (1,n) (7,o) .
+ops_cnj (20,xx) .
+excluir abcd bacd ccc .
+excluir d f e g h j i k m l n o .
+Fin

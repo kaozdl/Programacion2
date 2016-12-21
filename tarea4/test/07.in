@@ -1,0 +1,29 @@
+# cola de prioridad
+cola_prioridad 2 .
+cola_prioridad 2 (5,a) .
+cola_prioridad 5 (5,b) (5,c) .
+cola_prioridad 5 (4,d) .
+cola_prioridad 4 (7,a) (3,g) .
+cola_prioridad 3 (15,a) (3,g) (5,d) .
+cola_prioridad 5 (12,y) (8,g) (18,a) (20,g) (45,y) (12,g) .
+cola_prioridad 12 .
+cola_prioridad 20 (2,a) (28,b) (3,c) (11,d) (1,y) (1,x) .
+cola_prioridad 1 (10,z) (30,y) (17,x) (99,no) (98,no) (1,si) .
+cola_prioridad 1 .
+cola_prioridad 1 .
+cola_prioridad 99 .
+cola_prioridad 45 .
+cola_prioridad 30 .
+cola_prioridad 2 .
+cola_prioridad 2 .
+cola_prioridad 2 .
+cola_prioridad 2 .
+cola_prioridad 2 .
+cola_prioridad 2 .
+cola_prioridad 2 .
+cola_prioridad 2 .
+cola_prioridad 2 .
+cola_prioridad 2 .
+cola_prioridad 2 .
+cola_prioridad 2 .
+Fin

@@ -1,0 +1,27 @@
+# caso 3G
+liberar_estructuras
+insertar_binario (1,Champ_URU) .
+insertar_binario (2,URU_F) (3,COL_F) .
+insertar_binario (4,PER_SF) (5,URU_SF) (6,ARG_SF) (7,COL_SF) .
+cantidad_caminos (1,Champ_URU) (2,URU_F) (5,URU_SF) .
+cantidad_caminos (6,ARG_SF) .
+cantidad_caminos (3,COL_F) (7,COL_SF) .
+remover_binario PER_SF .
+insertar_binario (4,ECU_SF) (5,URU_SF) .
+kesimo_subarbol 1 .
+kesimo_subarbol 3 .
+kesimo_subarbol 2 .
+kesimo_subarbol 4 .
+kesimo_subarbol 6 .
+kesimo_subarbol 7 .
+kesimo_subarbol 5 .
+buscar_camino (16,Champ_URU) (1,URU_F) (1,URU_SF) .
+buscar_camino (16,Champ_URU) (1,COL_F) (1,ARG_SF) .
+buscar_camino (15,Champ_ARG) .
+buscar_subarbol Champ_URU .
+buscar_subarbol URU_SF .
+buscar_subarbol COL_SF .
+buscar_subarbol COL_F .
+buscar_subarbol ARG_F .
+buscar_subarbol Champ_CHI .
+Fin

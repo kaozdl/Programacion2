@@ -1,0 +1,6 @@
+1>(0,primero)
+2>(0,primero)(0,primero)(1,sol)(2,mercurio)(3,venus)(4,tierra)
+3>(0,primero)(0,primero)(1,sol)(2,mercurio)(3,venus)(4,tierra)(4,tierra)(3,venus)(2,mercurio)(1,sol)(0,primero)(0,primero)
+4>(0,primero)(0,primero)(0,primero)(1,sol)(2,mercurio)(3,venus)(4,tierra)(5,marte)
+5>(0,primero)(0,primero)(0,primero)(1,sol)(2,mercurio)(3,venus)(4,tierra)(5,marte)(5,marte)(4,tierra)(3,venus)(2,mercurio)(1,sol)(0,primero)(0,primero)(0,primero)
+6>Fin.

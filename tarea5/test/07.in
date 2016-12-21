@@ -1,0 +1,15 @@
+# Caso 07
+ingresar_localidades (15,ulsan) (41,tambo) (70,goya) (100,esmeraldas) (60,cumana) .
+iniciar_pedidos 5
+ingresar_pedidos ulsan (1000,chapas) 5 ulsan (2000,comestibles) 3 .
+ingresar_pedidos ulsan (1000,medicamentos) 5 ulsan (2000,medicamentos) 3 .
+ingresar_pedidos ulsan (1000,chapas) 1 ulsan (2000,comestibles) 4 .
+imprimir_totales
+ingresar_pedidos tambo (1200,chapas) 5 tambo (1100,chapas) 4 tambo (1000,chapas) 3 tambo (900,chapas) 2 tambo (800,chapas) 1 .
+procesar_rango 2
+procesar_rango 1
+procesar_rango 1
+procesar_rango 3
+ingresar_pedidos esmeraldas (1200,chapas) 5 tambo (1100,chapas) 4 tambo (1000,chapas) 3 tambo (900,chapas) 2 esmeraldas (800,chapas) 1 .
+imprimir_totales
+Fin

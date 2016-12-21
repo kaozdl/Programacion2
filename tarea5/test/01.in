@@ -1,0 +1,34 @@
+# prueba de sistema
+ingresar_localidades (21,g) (15,d) (70,p) .
+ingresar_localidades (61,b) (70,e) (45,n) (90,t) .
+reiniciar_sistema
+ingresar_localidades (21,g) (15,d) (70,p) .
+ingresar_localidades (61,b) (70,e) (45,n) (90,t) .
+iniciar_pedidos 10
+# en cada grupo se ingresa localidad (insumo, monto) prioridad
+ingresar_pedidos .
+ingresar_pedidos d (1000,chapas) 4 t (500,ropa) 10 b (2000,comestibles) 3  .
+ingresar_pedidos t (900,chapas) 10 t (5000,comestibles) 2 .
+imprimir_totales
+procesar_rango 1
+procesar_rango 2
+procesar_rango 3
+procesar_rango 4
+procesar_rango 5
+reiniciar_sistema
+ingresar_localidades (21,g) (15,d) (70,p) .
+ingresar_localidades (61,b) (70,e) (45,n) (90,t) .
+iniciar_pedidos 10
+# en cada grupo se ingresa localidad (insumo, monto) prioridad
+ingresar_pedidos .
+ingresar_pedidos d (1000,chapas) 4 t (500,ropa) 10 b (2000,comestibles) 3  .
+ingresar_pedidos t (900,chapas) 10 t (5000,comestibles) 2 .
+imprimir_totales
+procesar_rango 1
+procesar_rango 2
+procesar_rango 3
+procesar_rango 4
+procesar_rango 5
+reiniciar_sistema
+reiniciar_sistema
+Fin

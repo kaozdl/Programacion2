@@ -1,0 +1,20 @@
+1>2>3>
+ IDENTIFICADORES DE LOCALIDADES 
+(1,Flores)(2,Guaviyu)(3,Minas)(4,PuntaEspinillo)(5,TreintayTres)
+4>5>6>PuntaEspinillo
+
+7>Flores
+(900,chapas)
+8>TreintayTres
+(2000,comestibles)
+9>Minas
+(5000,comestibles)(500,ropa)
+10>Guaviyu
+(1000,chapas)
+11>INFORME POR RANGOS
+0
+0
+0
+0
+0
+12>Fin.

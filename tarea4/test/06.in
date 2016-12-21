@@ -1,0 +1,10 @@
+# conjunto
+construir_cnj (4,a) .
+excluir b c .
+excluir c a m .
+ops_cnj (2,m) .
+construir_cnj (4,a) (2,b) (3,c) (1,d) (5,e) (1,f) (7,g) (1,h) (4,i) (2,j) (3,k) (1,l) (5,m) (1,n) (7,o) .
+excluir i o c .
+excluir c a z .
+ops_cnj (2,m) (5,z) (6,b) .
+Fin

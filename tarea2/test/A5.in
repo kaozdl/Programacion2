@@ -1,0 +1,9 @@
+insertar_lista (1,gallo) (2,perro) (3,perro) .
+filtrado_lista 2 <
+filtrado_lista 2 =
+filtrado_lista 2 >
+insertar_lista (0,dragon) (1,tigre) .
+filtrado_lista 16 =
+filtrado_lista 0 =
+liberar_lista
+Fin

@@ -1,0 +1,4 @@
+insertar_lista (20,conejo) (10,mono) (30,mono) (15,caballo) .
+modificar_lista 10 30
+modificar_lista 15 20
+Fin

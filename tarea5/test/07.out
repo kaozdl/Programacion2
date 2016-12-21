@@ -1,0 +1,24 @@
+1>2>3>
+ IDENTIFICADORES DE LOCALIDADES 
+(1,cumana)(2,esmeraldas)(3,goya)(4,tambo)(5,ulsan)
+4>5>6>7>INFORME POR RANGOS
+9000
+0
+0
+0
+0
+8>9>10>ulsan
+(1000,chapas)(2000,comestibles)(2000,medicamentos)(2000,comestibles)(1000,chapas)(1000,medicamentos)
+11>ulsan
+
+12>cumana
+
+tambo
+(800,chapas)(900,chapas)(1000,chapas)(1100,chapas)(1200,chapas)
+13>14>INFORME POR RANGOS
+0
+0
+3000
+0
+2000
+15>Fin.

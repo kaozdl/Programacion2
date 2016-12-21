@@ -1,0 +1,6 @@
+insertar_lista .
+insertar_lista (1,sol) (2,mercurio) (3,venus) (4,tierra) .
+recorrido
+insertar_lista (5,marte) . 
+recorrido
+Fin

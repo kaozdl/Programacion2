@@ -1,0 +1,16 @@
+# Caso 02
+ingresar_localidades .
+procesar_rango 1
+procesar_rango 2
+procesar_rango 3
+procesar_rango 4
+procesar_rango 5
+reiniciar_sistema
+ingresar_localidades (99,Guaviyu) (80,Minas) (60,TreintayTres) (21,Flores) (1,PuntaEspinillo) .
+procesar_rango 1
+procesar_rango 2
+procesar_rango 3
+procesar_rango 4
+procesar_rango 5
+imprimir_totales
+Fin
